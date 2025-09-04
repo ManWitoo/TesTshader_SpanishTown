@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c85526023edbb31478b3ac03fbac8d25
+timeCreated: 1756919511
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures:
+  - _SampleTexture2D_d4075b1d9c7241d194dbc09f8cba7233_Texture_1_Texture2D: {fileID: 2800000, guid: c5037a265486f9c4b84ef757e4734be5, type: 3}
+  userData:
+  assetBundleName:
+  assetBundleVariant:

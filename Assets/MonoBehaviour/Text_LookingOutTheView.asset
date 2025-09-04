@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -939866991, guid: 1afb825fd5087755df9e969b0d435c1e, type: 3}
+  m_Name: Text_LookingOutTheView
+  m_EditorClassIdentifier:
+  textSequence:
+  - I used to spend many summer days gazing at the distance, dreaming that one day I'd become a game developer.
+  - My grandparents were still alive, and I loved to spend time with them.
+  - My brother and I would run around town, pranking other people and exploring the woods.
+  - It's so strange how little this place changed. In fact, it didn't change at all. How is this possible?

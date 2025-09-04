@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Day_Clear_2PM
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 689fbc85f8b8e394690528b0fcd0d560, type: 2}
+  - {fileID: 11400000, guid: e4e1ade67bbedf44ebcf9a657512df00, type: 2}
+  - {fileID: 11400000, guid: 15b875876490c11438251c75bba62182, type: 2}
+  - {fileID: 11400000, guid: eb6a11a1ee16d9245ad1ff486a75e137, type: 2}
+  - {fileID: 11400000, guid: 08002e8f6f35d8a46952255d28b0e61e, type: 2}
+  - {fileID: 11400000, guid: 353ec847471b95b4bab05113616afce3, type: 2}
+  - {fileID: 11400000, guid: 52f534b2b98b95b4d859333af5f5ade8, type: 2}
+  - {fileID: 11400000, guid: 8b33dbe5da567c146ace37592f6736f9, type: 2}

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8ce43520cc14ab64394683fc438be4a2
+timeCreated: 1756919511
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures:
+  - _Psychedelia_9390c4530fd0408389d86a8fdd63057b_Pattern01_3396634952_Texture2D: {fileID: 2800000, guid: 2f6da74ae331f424681a0233feabe91c, type: 3}
+  userData:
+  assetBundleName:
+  assetBundleVariant:

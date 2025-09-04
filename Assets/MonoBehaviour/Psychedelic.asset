@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Psychedelic
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 63a8f9b0c23767f4f96ee09d72ac5a07, type: 2}
+  - {fileID: 11400000, guid: 9e2097984e9f4a04c95e958be35ccaaf, type: 2}
+  - {fileID: 11400000, guid: fa87e7ca5a322d04e8d6a07d1439cac0, type: 2}
+  - {fileID: 11400000, guid: b3b25f3b726271e4da8f87b82a54a8e8, type: 2}
+  - {fileID: 11400000, guid: 5dd1aff54a36f1c4ebef9e887e6142de, type: 2}
+  - {fileID: 11400000, guid: cddd7e425ee621649b0a135f1cebfee5, type: 2}
+  - {fileID: 11400000, guid: 5b1b92b2fc190924ca67697ad53c8657, type: 2}
+  - {fileID: 11400000, guid: 74ce988c212d61348a64b9b29fbfd21c, type: 2}
